@@ -1,4 +1,4 @@
-# Instacart Exploratory Analysis – Sprint 4
+# Instacart Exploratory Analysis – P4
 
 ## Descripción breve
 Análisis exploratorio de datos sobre pedidos de Instacart. Objetivo: limpiar los datos y extraer insights sobre hábitos de compra.
